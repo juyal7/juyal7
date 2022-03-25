@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Solidity and Python
 - 💞️ I’m looking to collaborate on Deapp.
-- 📫 How to reach me juyalchanchal8@gmail.com & crypto.coin.token.eli5
+- 📫 How to reach me juyalchanchal8@gmail.com & https://www.instagram.com/crypto.coin.token.eli5/
