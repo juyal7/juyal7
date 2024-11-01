@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @juyal7
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Solidity and Python
-- 💞️ I’m looking to collaborate on Deapp.
-- 📫 How to reach me juyalchanchal8@gmail.com & https://www.instagram.com/crypto.coin.token.eli5/
+👋 Hi, I’m Chanchal!
+👀 I have a keen interest in coding and all things tech.
+🌱 Currently, I’m diving into the world of Data Science and expanding my skills.
+💞️ I’m looking to collaborate on exciting open-source projects.
+📫 Feel free to reach out at: juyalchanchal8@gmail.com.
+
+Let’s connect and create something amazing together!
